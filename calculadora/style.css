@@ -1,6 +1,8 @@
 .calculadora{
  padding: 5%;
  background-color: #7d6985;
+ border-bottom-left-radius: 20%;
+ border-bottom-right-radius: 20%;
 }
 .titulo-p{
  font-size: 5vh;
@@ -24,22 +26,22 @@ margin-left: 45%;
  margin-left: 45%;
 }
 .cinza-escuro{
- background-color: #ffffff;
- color: #0c0c0c;
+ background-color: #000000;
+ color: #fdfdfd;
  width: 4%;
 }
 .cinza-claro{
- background-color: #ffffff;
- color: #575757;
+ background-color: #575757;
+ color: #ffffff;
  width: 4%;
 }
 .laranja{
- background-color: #ffffff;
- color: #ff7b00;
+ background-color: #ff7b00;
+ color: #ffffff;
  width: 4%;
 }
 .zero{
- background-color: #ffffff;
- color: #575757;
+ background-color: #575757;
+ color: #ffffff;
  width: 8.5%;
 }
