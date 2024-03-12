@@ -1,13 +1,45 @@
+.calculadora{
+ padding: 5%;
+ background-color: #7d6985;
+}
+.titulo-p{
+ font-size: 5vh;
+ text-align: center;
+ margin-bottom: 2%;
+ color: white;
+}
+.a{
+ margin-left: 45%;
+}
+.b{
+ margin-left: 45%;
+}
+.c{
+margin-left: 45%;
+}
+.d{
+ margin-left: 45%;
+}
+.e{
+ margin-left: 45%;
+}
 .cinza-escuro{
- color: #3c3c3c;
+ background-color: #ffffff;
+ color: #0c0c0c;
+ width: 4%;
 }
 .cinza-claro{
- color: #d3d3d3;
+ background-color: #ffffff;
+ color: #575757;
+ width: 4%;
 }
 .laranja{
- color: #ffa500;
+ background-color: #ffffff;
+ color: #ff7b00;
+ width: 4%;
 }
 .zero{
-	color: #d3d3d3;
-	width: 4%;
+ background-color: #ffffff;
+ color: #575757;
+ width: 8.5%;
 }
